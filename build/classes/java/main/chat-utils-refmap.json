@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "io/github/hotlava03/chatutils/mixin/ReceiveMessageMixin": {
+      "addMessage(Lnet/minecraft/text/Text;I)V": "Lnet/minecraft/class_338;method_1804(Lnet/minecraft/class_2561;I)V"
+    },
+    "io/github/hotlava03/chatutils/mixin/CopyToClipboardMixin": {
+      "sendChatMessage(Ljava/lang/String;)V": "Lnet/minecraft/class_746;method_3142(Ljava/lang/String;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "io/github/hotlava03/chatutils/mixin/ReceiveMessageMixin": {
+        "addMessage(Lnet/minecraft/text/Text;I)V": "Lnet/minecraft/class_338;method_1804(Lnet/minecraft/class_2561;I)V"
+      },
+      "io/github/hotlava03/chatutils/mixin/CopyToClipboardMixin": {
+        "sendChatMessage(Ljava/lang/String;)V": "Lnet/minecraft/class_746;method_3142(Ljava/lang/String;)V"
+      }
+    }
+  }
+}

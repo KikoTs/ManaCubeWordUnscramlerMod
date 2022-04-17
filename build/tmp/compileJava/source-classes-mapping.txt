@@ -1,0 +1,17 @@
+io/github/hotlava03/chatutils/config/ChatUtilsConfig.java
+ io.github.hotlava03.chatutils.config.ChatUtilsConfig
+ io.github.hotlava03.chatutils.config.ChatUtilsConfig$Value
+io/github/hotlava03/chatutils/gui/ConfigGui.java
+ io.github.hotlava03.chatutils.gui.ConfigGui
+io/github/hotlava03/chatutils/mixin/CopyToClipboardMixin.java
+ io.github.hotlava03.chatutils.mixin.CopyToClipboardMixin
+net/md_5/bungee/api/ChatColor.java
+ net.md_5.bungee.api.ChatColor
+io/github/hotlava03/chatutils/ChatUtilsMod.java
+ io.github.hotlava03.chatutils.ChatUtilsMod
+io/github/hotlava03/chatutils/mixin/ReceiveMessageMixin.java
+ io.github.hotlava03.chatutils.mixin.ReceiveMessageMixin
+io/github/hotlava03/chatutils/ModMenuApiImpl.java
+ io.github.hotlava03.chatutils.ModMenuApiImpl
+io/github/hotlava03/chatutils/util/Counter.java
+ io.github.hotlava03.chatutils.util.Counter
