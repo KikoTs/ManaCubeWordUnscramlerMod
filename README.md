@@ -1,4 +1,4 @@
-# ChatUtils - Copy messages with a click + anti spam
+# ChatUtils - Copy messages with a click + anti spam + Word Unscramle Integration
 
 This extremely simple mod is meant to be used as a utility for server staff or even normal players to be able to copy chat messages.
 
